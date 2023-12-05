@@ -6,31 +6,31 @@
 - Call instance methods inside of other instance methods.
 - Use instance methods to track information pertinent to an instance of a class.
 
-***
+---
 
 ## Key Vocab
 
 - **Class**: a bundle of data and functionality. Can be copied and modified to
-accomplish a wide variety of programming tasks.
+  accomplish a wide variety of programming tasks.
 - **Initialize**: create a working copy of a class using its `__init__`
-method.
+  method.
 - **Instance**: one specific working copy of a class. It is created when a
-class's `__init__` method is called.
+  class's `__init__` method is called.
 - **Object**: the more common name for an instance. The two can usually be used
-interchangeably.
+  interchangeably.
 - **Object-Oriented Programming**: programming that is oriented around data
-(made mobile and changeable in **objects**) rather than functionality. Python
-is an object-oriented programming language.
+  (made mobile and changeable in **objects**) rather than functionality. Python
+  is an object-oriented programming language.
 - **Function**: a series of steps that create, transform, and move data.
 - **Method**: a function that is defined inside of a class.
 - **Magic Method**: a special type of method in Python that starts and ends
-with double underscores. These methods are called on objects under certain
-conditions without needing to use their names explicitly. Also called **dunder
-methods** (for **d**ouble **under**score).
+  with double underscores. These methods are called on objects under certain
+  conditions without needing to use their names explicitly. Also called **dunder
+  methods** (for **d**ouble **under**score).
 - **Attribute**: variables that belong to an object.
 - **Property**: attributes that are controlled by methods.
 
-***
+---
 
 ## Introduction
 
@@ -41,7 +41,7 @@ We're going to create an Object-Oriented Cash Register that can:
 - Keep track of what's been added to it
 - Void the last transaction
 
-***
+---
 
 ## Instructions
 
